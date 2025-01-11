@@ -25,7 +25,7 @@ Brief description of your project. What problem does it solve? What technologies
 Brief description of your second project.
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ParseDotEXE&show_icons=true&theme=radical)
 
 ## Connect With Me
 - 📫 How to reach me: parsarahimnia@gmail.com
