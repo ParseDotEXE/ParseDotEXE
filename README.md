@@ -14,7 +14,6 @@
 <!-- Add/remove languages as needed -->
 
 ### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 <!-- Add more tools you use -->
 
