@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there! 👋 
 
-<!--
-**ParseDotEXE/ParseDotEXE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Computer Science student at McGill University
+- 🌱 Currently learning Data Structures and Algorithms and basics of Machine Learning
+- 💡 Interested in Web/Software Development, Machine Learning, Cyber Security, any and all computer related subjects!
+- 🎯 Goal: Becoming a very proficient programmer and technology specialist
 
-Here are some ideas to get you started:
+## Skills
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
+![C](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+<!-- Add/remove languages as needed -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools & Technologies
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+<!-- Add more tools you use -->
+
+## Projects
+### [Project Name 1]
+Brief description of your project. What problem does it solve? What technologies did you use?
+
+### [Project Name 2]
+Brief description of your second project.
+
+## GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+## Connect With Me
+- 📫 How to reach me: parsarahimnia@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/parsa-rahimnia
+- 🌐 Portfolio: [Your Website if you have one]
+
+---
+⭐️ From [your-username](https://github.com/your-username)
