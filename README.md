@@ -18,11 +18,7 @@
 <!-- Add more tools you use -->
 
 ## Projects
-### [Project Name 1]
-Brief description of your project. What problem does it solve? What technologies did you use?
-
-### [Project Name 2]
-Brief description of your second project.
+TBD
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ParseDotEXE&show_icons=true&theme=radical)
@@ -30,7 +26,7 @@ Brief description of your second project.
 ## Connect With Me
 - 📫 How to reach me: parsarahimnia@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/parsa-rahimnia
-- 🌐 Portfolio: [Your Website if you have one]
+- 🌐 Portfolio: [need to make one]
 
 ---
 ⭐️ From [your-username](https://github.com/your-username)
