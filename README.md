@@ -2,7 +2,6 @@
 
 ## About Me
 - 🎓 Computer Science student at McGill University
-- 🌱 Currently learning Data Structures and Algorithms and basics of Machine Learning
 - 💡 Interested in Web/Software Development, Machine Learning, Cyber Security, any and all computer related subjects!
 - 🎯 Goal: Becoming a very proficient programmer and technology specialist
 
