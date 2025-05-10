@@ -21,7 +21,7 @@
 - Course Notifier
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ParseDotEXE&show_icons=true&theme=vue-dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ParseDotEXE&show_icons=true&theme=dracula)
 
 ## Connect With Me
 - 📫 How to reach me: parsarahimnia@gmail.com
