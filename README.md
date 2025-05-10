@@ -17,7 +17,8 @@
 <!-- Add more tools you use -->
 
 ## Projects
-TBD
+- Distributive Task Scheduler
+- Course Notifier
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ParseDotEXE&show_icons=true&theme=radical)
