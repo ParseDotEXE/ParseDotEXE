@@ -2,14 +2,16 @@
 
 ## About Me
 - 🎓 Computer Science student at McGill University
-- 💡 Interested in Web/Software Development, Machine Learning, Cyber Security, any and all computer related subjects!
-- 🎯 Goal: Becoming a very proficient programmer and technology specialist
+- 💡 Interested in making cool and impactful software projects, Machine Learning, Cyber Security, any and all computer related subjects!
+- 🎯 Goal: Becoming a proficient project designer and builder
 
 ## Skills
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 <!-- Add/remove languages as needed -->
 
 ### Tools & Technologies
