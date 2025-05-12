@@ -2,8 +2,8 @@
 
 ## About Me
 - 🎓 Computer Science student at McGill University
-- 💡 Interested in making cool and impactful software projects, Machine Learning, Cyber Security, any and all computer related subjects!
-- 🎯 Goal: Becoming a proficient project designer and builder
+- 💡 Interested in Software Design, Machine Learning, Cyber Security, Cloud Computing and Web Development!
+- 🎯 My goal is to become a proficient project designer and builder
 
 ## Skills
 ### Languages
