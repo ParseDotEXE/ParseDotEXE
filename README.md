@@ -1,4 +1,4 @@
-# Hi there! 👋 
+# Hi there, My name is Parsa Rahimnia!👋 
 
 ## About Me
 - 🎓 Computer Science student at McGill University
