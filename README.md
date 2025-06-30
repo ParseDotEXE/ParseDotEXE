@@ -24,11 +24,14 @@
 <!-- Add more tools you use -->
 
 ## Projects
-- Distributive Task Scheduler
 - Course Notifier
+- Fullstack Movie Watchlist App
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ParseDotEXE&show_icons=true&theme=tokyonight)
+
+## LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/ParseDotEXE?theme=tokyonight&font=Nunito&ext=contest)
 
 ## Connect With Me
 - 📫 How to reach me: parsarahimnia@gmail.com
