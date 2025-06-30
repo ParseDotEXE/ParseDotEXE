@@ -32,7 +32,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ParseDotEXE&show_icons=true&theme=tokyonight)
 
 ## LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/peter420griff?theme=tokyonight&font=Nunito&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/peter420griff?theme=dark&font=Nunito&ext=contest)
 
 ## Connect With Me
 - 📫 How to reach me: parsarahimnia@gmail.com
