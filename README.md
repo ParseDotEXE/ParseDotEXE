@@ -36,7 +36,7 @@
 ## Connect With Me
 - 📫 How to reach me: parsarahimnia@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/parsa-rahimnia
-- 🌐 Portfolio: [need to make one]
+- 🌐 Portfolio: (https://parsedotexe.github.io/kalilinuxsite/)
 
 ---
 ⭐️ From [ParseDotEXE](https://github.com/ParseDotEXE)
