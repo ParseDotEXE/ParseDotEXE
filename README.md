@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎓 Computer Science student at McGill University
-- 💡 Interested in Software Design, Machine Learning, Cyber Security, Cloud Computing and Web Development!
+- 💡 Interested in Software Design and Engineering, Machine Learning, Cyber Security, Cloud Computing and Web Development!
 - 🎯 My goal is to become a proficient project designer and builder
 
 ## Skills
