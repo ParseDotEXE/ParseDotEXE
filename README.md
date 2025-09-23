@@ -6,17 +6,11 @@
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30">
 </div>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=200&lines=About+Me" alt="About Me" />
-</h2>
-
+## About Me
 - 🎓 Computer Science student at **McGill University**
-- 💡 Interested in **Software Design and Engineering**, **Machine Learning**, **Cyber Security**, **Cloud Computing** and **Web Development**!
+- 💡 Currently learning: 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=36BCF7&width=400&lines=Software+Design+%26+Engineering;Machine+Learning;Cyber+Security;Cloud+Computing;Web+Development" alt="Interests" />
 - 🎯 My goal is to become a professional **project designer and builder**
-
-<div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</div>
 
 ## Skills
 ### Languages
