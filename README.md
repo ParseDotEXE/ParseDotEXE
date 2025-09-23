@@ -2,7 +2,7 @@
   <tr>
     <td width="70%">
       <h1 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+my+name+is+Parsa+Rahimnia!" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Hi+my+name+is+Parsa+Rahimnia!" alt="Typing SVG" />
       </h1>
       <div align="center">
         <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30">
