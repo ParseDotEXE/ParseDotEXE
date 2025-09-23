@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=200&lines=About+Me" alt="About Me" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=200&lines=About+Me" alt="About Me" />
 
 ---
 
