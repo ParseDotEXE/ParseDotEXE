@@ -64,8 +64,8 @@
 ---
 ⭐️ From [ParseDotEXE](https://github.com/ParseDotEXE)
 
----
+<!-- All your existing content above -->
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l41lUjUgLLwWrz20w/giphy.gif" width="100%" style="max-height: 80px;">
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" width="100%">
 </div>
