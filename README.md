@@ -123,6 +123,9 @@
   </table>
 </div>
 
+</table>
+</div>
+
 <div align="center">
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" width="100%" height="120">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGN5NXlrMzJ5bnJkajZjZmRhZmNqemo4Y3JtcDVkMjVkM2N5aTlyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gYWeVOiMmbg3kzCTq5/giphy.gif" width="100%" height="120">
 </div>
