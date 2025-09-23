@@ -6,7 +6,6 @@
       </h1>
       <div align="center">
         <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30">
-        <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="30">
       </div>
     </td>
     <td width="30%" align="right">
