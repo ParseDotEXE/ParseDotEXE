@@ -61,11 +61,12 @@
 - 💼 LinkedIn: www.linkedin.com/in/parsa-rahimnia
 - 🌐 Portfolio: (https://parsedotexe.github.io/kalilinuxsite/)
 
----
-⭐️ From [ParseDotEXE](https://github.com/ParseDotEXE)
 
 <!-- All your existing content above -->
 
 <div align="center">
   <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" width="100%">
 </div>
+
+---
+⭐️ From [ParseDotEXE](https://github.com/ParseDotEXE)
