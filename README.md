@@ -1,4 +1,11 @@
-# Hi there, My name is Parsa Rahimnia!👋 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+my+name+is+Parsa+Rahimnia!+👋" alt="Typing SVG" />
+</h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+</div>
 
 ## About Me
 - 🎓 Computer Science student at McGill University
