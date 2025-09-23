@@ -63,3 +63,9 @@
 
 ---
 ⭐️ From [ParseDotEXE](https://github.com/ParseDotEXE)
+
+<!-- All your existing content above -->
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l2JhxfHWMBWuDMIpi/giphy.gif" width="100%">
+</div>
