@@ -31,7 +31,8 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ParseDotEXE&show_icons=true&theme=tokyonight)
 
 ## LeetCode Stats
-![LeetCode Stats]([https://leetcard.jacoblin.cool/ParseDotEXE?theme=dark&font=Nunito&ext=contest](https://leetcard.jacoblin.cool/ParseDotEXE?theme=chartreuse&font=Fuzzy%20Bubbles&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ParseDotEXE?theme=chartreuse&font=Fuzzy%20Bubbles&ext=heatmap)
+
 
 ## Connect With Me
 - 📫 How to reach me: parsarahimnia@gmail.com
