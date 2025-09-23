@@ -8,20 +8,15 @@
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=200&lines=About+Me" alt="About Me" />
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3>📋 About Me</h3>
-        <ul>
-          <li>🎓 Computer Science student at McGill University</li>
-          <li>💡 Interested in Software Design and Engineering, Machine Learning, Cyber Security, Cloud Computing and Web Development!</li>
-          <li>🎯 My goal is to become a professional project designer and builder</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+---
+
+🎓 **Computer Science student at McGill University**
+
+💡 **Interested in Software Design and Engineering, Machine Learning, Cyber Security, Cloud Computing and Web Development!**
+
+🎯 **My goal is to become a professional project designer and builder**
+
+---
 
 ## Skills
 ### Languages
