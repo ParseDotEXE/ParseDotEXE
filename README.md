@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=200&lines=About+Me" alt="About Me" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=32CD32&center=true&vCenter=true&width=200&lines=About+Me" alt="About Me" />
 
 <div align="center">
   <table>
@@ -32,7 +32,7 @@
   </table>
 </div>
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=32CD32&center=true&vCenter=true&width=200&lines=Skills" alt="Skills" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=200&lines=Skills" alt="Skills" />
 
 <div align="center">
   <table>
@@ -61,7 +61,7 @@
   </table>
 </div>
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=200&lines=Projects" alt="Projects" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=32CD32&center=true&vCenter=true&width=200&lines=Projects" alt="Projects" />
 
 <div align="center">
   <table>
@@ -77,7 +77,7 @@
   </table>
 </div>
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=32CD32&center=true&vCenter=true&width=250&lines=GitHub+Stats" alt="GitHub Stats" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=250&lines=GitHub+Stats" alt="GitHub Stats" />
 
 <div align="center">
   <table>
@@ -91,7 +91,7 @@
   </table>
 </div>
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=250&lines=LeetCode+Stats" alt="LeetCode Stats" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=32CD32&center=true&vCenter=true&width=250&lines=LeetCode+Stats" alt="LeetCode Stats" />
 
 <div align="center">
   <table>
@@ -105,7 +105,7 @@
   </table>
 </div>
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=32CD32&center=true&vCenter=true&width=300&lines=Connect+With+Me" alt="Connect With Me" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=300&lines=Connect+With+Me" alt="Connect With Me" />
 
 <div align="center">
   <table>
