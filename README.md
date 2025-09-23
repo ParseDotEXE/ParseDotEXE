@@ -65,5 +65,5 @@
 ⭐️ From [ParseDotEXE](https://github.com/ParseDotEXE)
 
 <div align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="100%" height="100">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="80%" height="100">
 </div>
