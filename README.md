@@ -231,5 +231,5 @@
 </div>
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGN5NXlrMzJ5bnJkajZjZmRhZmNqemo4Y3JtcDVkMjVkM2N5aTlyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gYWeVOiMmbg3kzCTq5/giphy.gif" style="max-width: 100%; height: auto;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGN5NXlrMzJ5bnJkajZjZmRhZmNqemo4Y3JtcDVkMjVkM2N5aTlyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gYWeVOiMmbg3kzCTq5/giphy.gif" style="max-width: 100%; height: 80;">
 </div>
