@@ -6,13 +6,14 @@
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30">
 </div>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=200&lines=About+Me+✨" alt="About Me" />
-</h2>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=200&lines=About+Me" alt="About Me" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=🎓+Computer+Science+student+at+McGill+University;💡+Passionate+about+Software+Design+%26+Engineering;🤖+Machine+Learning+enthusiast;🔒+Cyber+Security+explorer;☁️+Cloud+Computing+learner;🌐+Web+Development+creator;🎯+Future+professional+project+designer+%26+builder!" alt="About Me Details" />
-</div>
+- 🎓 **Computer Science student** at McGill University
+- 💡 **Currently exploring**: 
+  <br><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1500&color=36BCF7&width=500&lines=Software+Design+%26+Engineering+💻;Machine+Learning+🤖;Cyber+Security+🔒;Cloud+Computing+☁️;Web+Development+🌐" alt="Tech Interests" />
+- 🎯 **Goal**: Become a professional project designer and builder
+
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100">
 
 ## Skills
 ### Languages
