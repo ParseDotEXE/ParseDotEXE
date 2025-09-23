@@ -231,5 +231,5 @@
 </div>
 
 <div align="center">
-  <img src="https://tenor.com/en-GB/view/pacman-video-game-eating-marshmallow-gif-6008098">
+  <img src="https://i.pinimg.com/originals/68/43/cc/6843cc365df18febde115bc70eb15290.gif" style="max-width: 100%; height: auto;">
 </div>
