@@ -1,13 +1,19 @@
-<img align="right" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="200">
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+my+name+is+Parsa+Rahimnia!" alt="Typing SVG" />
-</h1>
-
-<div align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="30">
-</div>
+<table width="100%">
+  <tr>
+    <td width="70%">
+      <h1 align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+my+name+is+Parsa+Rahimnia!" alt="Typing SVG" />
+      </h1>
+      <div align="center">
+        <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30">
+        <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="30">
+      </div>
+    </td>
+    <td width="30%" align="right">
+      <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="200">
+    </td>
+  </tr>
+</table>
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=200&lines=About+Me" alt="About Me" />
 
