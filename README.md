@@ -16,6 +16,8 @@
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=200&lines=About+Me" alt="About Me" />
 
+---
+
 🎓 **Computer Science student at McGill University**
 
 💡 **Interested in Software Design and Engineering, Machine Learning, Cyber Security, Cloud Computing and Web Development!**
