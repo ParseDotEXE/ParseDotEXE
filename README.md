@@ -61,22 +61,6 @@
   </table>
 </div>
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=200&lines=Projects" alt="Projects" />
-
-<div align="left">
-  <table border="3" style="border-color: black; border-style: solid;">
-    <tr>
-      <td>
-        <br>
-        • <strong>Course Notifier</strong>
-        <br><br>
-        • <strong>Fullstack Movie Watchlist App</strong>
-        <br>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=32CD32&center=true&vCenter=true&width=250&lines=GitHub+Stats" alt="GitHub Stats" />
 
 <div align="center">
