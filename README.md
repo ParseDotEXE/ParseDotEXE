@@ -97,6 +97,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> www.linkedin.com/in/parsa-rahimnia
   <br><br>
   <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"> https://parsedotexe.github.io/kalilinuxsite/
+  <br><br>
+  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume">https://github.com/ParseDotEXE/Parsaresume/blob/main/Parsa_Rahimnia_Resume.pdf
 </div>
 
 <div align="center">
