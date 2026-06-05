@@ -23,9 +23,7 @@
         <br>
         🎓 <strong>Computer Science student at McGill University</strong>
         <br><br>
-        💡 <strong>Interested in Software Design and Engineering, Machine Learning, Cyber Security, and Systems design and programming!</strong>
-        <br><br>
-        🎯 <strong>My goal is to become a professional project designer and builder</strong>
+        💡 <strong>Interested in Software Design and Engineering, Machine Learning, Cyber Security, and Systems design and programming</strong>
         <br>
       </td>
     </tr>
