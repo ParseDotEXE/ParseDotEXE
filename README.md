@@ -23,7 +23,7 @@
         <br>
         🎓 <strong>Computer Science student at McGill University</strong>
         <br><br>
-        💡 <strong>Interested in Software Design and Engineering, Machine Learning, Cyber Security, and Systems design and programming</strong>
+        💡 <strong>I specialize in software engineering for consumer driven softwares and operating systems</strong>
         <br>
       </td>
     </tr>
